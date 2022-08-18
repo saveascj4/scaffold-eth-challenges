@@ -26,10 +26,10 @@ contract Staker {
   // Add a `withdraw()` function to let users withdraw their balance
 
 
-  // Add a `timeLeft()` view function that returns the time left before the deadline for the frontend
+  // Addd a `timeLeft()` view function that returns the time left before the deadline for the frontend
 
 
   // Add the `receive()` special function that receives eth and calls stake()
-
+ 
 
 }
